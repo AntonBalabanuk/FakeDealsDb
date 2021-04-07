@@ -3,8 +3,8 @@
   {
     "id": 0,
     "title": "aute",
-    "descriptions": "Lorem commodo dolor cupidatat adipisicing velit adipisicing cupidatat duis ipsum est non nisi excepteur do",
-    "picture": "https://atza.co.il/wp-content/uploads/2015/12/logo1.png",
+    "description": "Lorem commodo dolor cupidatat adipisicing velit adipisicing cupidatat duis ipsum est non nisi excepteur do",
+    "image": "https://atza.co.il/wp-content/uploads/2015/12/logo1.png",
     "link": "https://www.cal-store.co.il/product.php?pid=2C3D90AF-A587-4AEC-A0C5-A38ED03D716F&cid=B0E087D2-212B-4308-813D-C8693B2563F7",
     "category": "food",
     "club": "iStudent"
@@ -12,8 +12,8 @@
   {
     "id": 1,
     "title": "veniam",
-    "descriptions": "Lorem elit reprehenderit fugiat nulla ad nostrud occaecat veniam ut ex ea ipsum elit veniam",
-    "picture": "https://atza.co.il/wp-content/uploads/2015/12/logo1.png",
+    "description": "Lorem elit reprehenderit fugiat nulla ad nostrud occaecat veniam ut ex ea ipsum elit veniam",
+    "image": "https://atza.co.il/wp-content/uploads/2015/12/logo1.png",
     "link": "https://www.cal-store.co.il/product.php?pid=2C3D90AF-A587-4AEC-A0C5-A38ED03D716F&cid=B0E087D2-212B-4308-813D-C8693B2563F7",
     "category": "food",
     "club": "iStudent"
