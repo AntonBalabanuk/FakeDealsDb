@@ -1,39 +1,38 @@
-{
-  "deals" : [
+[
   {
     "id": 0,
-    "title": "aute",
-    "descriptions": "Lorem commodo dolor cupidatat adipisicing velit adipisicing cupidatat duis ipsum est non nisi excepteur do",
-    "picture": "https://atza.co.il/wp-content/uploads/2015/12/logo1.png",
-    "link": "https://www.cal-store.co.il/product.php?pid=2C3D90AF-A587-4AEC-A0C5-A38ED03D716F&cid=B0E087D2-212B-4308-813D-C8693B2563F7",
+    "title": "ארוחת רויאל ברשת מקדונלדס ב40 שח",
+    "descriptions": "",
+    "picture": "https://istudentcards.blob.core.windows.net/sales/FwLBLGo1J_web.jpg",
+    "link": "https://www.istudent.co.il/saleInner.php?saleId=FwLBLGo1J",
     "category": "food",
     "club": "iStudent"
   },
   {
     "id": 1,
-    "title": "veniam",
-    "descriptions": "Lorem elit reprehenderit fugiat nulla ad nostrud occaecat veniam ut ex ea ipsum elit veniam",
-    "picture": "https://atza.co.il/wp-content/uploads/2015/12/logo1.png",
-    "link": "https://www.cal-store.co.il/product.php?pid=2C3D90AF-A587-4AEC-A0C5-A38ED03D716F&cid=B0E087D2-212B-4308-813D-C8693B2563F7",
+    "title": "שובר לרשת מקדונלדס בשווי 100 שח ב90 שח",
+    "descriptions": "",
+    "picture": "https://istudentcards.blob.core.windows.net/sales/rsltlPsDv_web.jpg",
+    "link": "https://www.istudent.co.il/saleInner.php?saleId=rsltlPsDv",
     "category": "food",
     "club": "iStudent"
   },
   {
     "id": 2,
-    "title": "nulla",
-    "descriptions": "sunt esse sint et Lorem ea ut pariatur nostrud sunt incididunt eiusmod eiusmod cupidatat nulla",
-    "picture": "https://atza.co.il/wp-content/uploads/2015/12/logo1.png",
-    "link": "https://www.cal-store.co.il/product.php?pid=2C3D90AF-A587-4AEC-A0C5-A38ED03D716F&cid=B0E087D2-212B-4308-813D-C8693B2563F7",
-    "category": "culture",
+    "title": "מקדונלד'ס- ארוחת 9 נאגטס ענקית ב- 46 ₪",
+    "descriptions": "",
+    "picture": "https://www.cal-store.co.il/images/spacer_573x492.png",
+    "link": "https://www.cal-store.co.il/product.php?pid=F3D3E402-FFF3-446F-99D6-B280BA620A32",
+    "category": "food",
     "club": "Cal"
   },
   {
     "id": 3,
-    "title": "consectetur",
-    "descriptions": "culpa excepteur quis reprehenderit Lorem do commodo velit adipisicing veniam laboris incididunt id fugiat quis",
-    "picture": "https://atza.co.il/wp-content/uploads/2015/12/logo1.png",
+    "title": "מקדונלד'ס ארוחת מק רויאל משלוחים ב-47 ₪",
+    "descriptions": "במשלוח עד הבית",
+    "picture": "https://www.cal-store.co.il/images/spacer_325x287.png",
     "link": "https://www.cal-store.co.il/product.php?pid=2C3D90AF-A587-4AEC-A0C5-A38ED03D716F&cid=B0E087D2-212B-4308-813D-C8693B2563F7",
-    "category": "culture",
+    "category": "food",
     "club": "Cal"
   },
   {
@@ -74,11 +73,11 @@
   },
   {
     "id": 8,
-    "title": "aliqua",
-    "descriptions": "adipisicing culpa nostrud esse non voluptate non pariatur in cupidatat excepteur laboris nostrud qui velit",
-    "picture": "https://atza.co.il/wp-content/uploads/2015/12/logo1.png",
-    "link": "https://www.cal-store.co.il/product.php?pid=2C3D90AF-A587-4AEC-A0C5-A38ED03D716F&cid=B0E087D2-212B-4308-813D-C8693B2563F7",
-    "category": "food",
+    "title": "חוף חנניה -טיול VIP פרטי בסירה מהירה ב- 269 ₪",
+    "descriptions": "חוויה נעימה מאוד ומתאימה לכל המשפחה",
+    "picture": "https://www.cal-store.co.il/images/spacer_573x492.png",
+    "link": "https://www.cal-store.co.il/product.php?pid=4701B56E-9952-416A-AED0-683B0D3444EC&cid=5036A6B1-6560-4139-8C90-09DF6BBF89F8",
+    "category": "culture",
     "club": "Cal"
   },
   {
@@ -181,4 +180,3 @@
     "club": "Cal"
   }
 ]
-}
