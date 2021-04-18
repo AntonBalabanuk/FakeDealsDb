@@ -1,184 +1,184 @@
 {
     "deals": [
-  {
-    "id": 0,
-    "title": "ארוחת רויאל ברשת מקדונלדס ב40 שח",
-    "descriptions": "",
-    "picture": "https://istudentcards.blob.core.windows.net/sales/FwLBLGo1J_web.jpg",
-    "link": "https://www.istudent.co.il/saleInner.php?saleId=FwLBLGo1J",
-    "category": "food",
-    "club": "iStudent"
-  },
-  {
-    "id": 1,
-    "title": "שובר לרשת מקדונלדס בשווי 100 שח ב90 שח",
-    "descriptions": "",
-    "picture": "https://istudentcards.blob.core.windows.net/sales/rsltlPsDv_web.jpg",
-    "link": "https://www.istudent.co.il/saleInner.php?saleId=rsltlPsDv",
-    "category": "food",
-    "club": "iStudent"
-  },
-  {
-    "id": 2,
-    "title": "מקדונלד'ס- ארוחת 9 נאגטס ענקית ב- 46 ₪",
-    "descriptions": "",
-    "picture": "https://www.cal-store.co.il/images/spacer_573x492.png",
-    "link": "https://www.cal-store.co.il/product.php?pid=F3D3E402-FFF3-446F-99D6-B280BA620A32",
-    "category": "food",
-    "club": "Cal"
-  },
-  {
-    "id": 3,
-    "title": "מקדונלד'ס ארוחת מק רויאל משלוחים ב-47 ₪",
-    "descriptions": "במשלוח עד הבית",
-    "picture": "https://www.cal-store.co.il/images/spacer_325x287.png",
-    "link": "https://www.cal-store.co.il/product.php?pid=2C3D90AF-A587-4AEC-A0C5-A38ED03D716F&cid=B0E087D2-212B-4308-813D-C8693B2563F7",
-    "category": "food",
-    "club": "Cal"
-  },
-  {
-    "id": 4,
-    "title": "voluptate",
-    "descriptions": "aliquip labore elit consectetur magna magna cillum proident ut cillum mollit officia consectetur est tempor",
-    "picture": "https://atza.co.il/wp-content/uploads/2015/12/logo1.png",
-    "link": "https://www.cal-store.co.il/product.php?pid=2C3D90AF-A587-4AEC-A0C5-A38ED03D716F&cid=B0E087D2-212B-4308-813D-C8693B2563F7",
-    "category": "food",
-    "club": "iStudent"
-  },
-  {
-    "id": 5,
-    "title": "qui",
-    "descriptions": "excepteur culpa amet fugiat exercitation nostrud minim dolor non qui non enim tempor ullamco consectetur",
-    "picture": "https://atza.co.il/wp-content/uploads/2015/12/logo1.png",
-    "link": "https://www.cal-store.co.il/product.php?pid=2C3D90AF-A587-4AEC-A0C5-A38ED03D716F&cid=B0E087D2-212B-4308-813D-C8693B2563F7",
-    "category": "culture",
-    "club": "iStudent"
-  },
-  {
-    "id": 6,
-    "title": "voluptate",
-    "descriptions": "do velit adipisicing laborum consequat esse mollit incididunt laboris eiusmod ex velit ipsum quis fugiat",
-    "picture": "https://atza.co.il/wp-content/uploads/2015/12/logo1.png",
-    "link": "https://www.cal-store.co.il/product.php?pid=2C3D90AF-A587-4AEC-A0C5-A38ED03D716F&cid=B0E087D2-212B-4308-813D-C8693B2563F7",
-    "category": "food",
-    "club": "iStudent"
-  },
-  {
-    "id": 7,
-    "title": "dolore",
-    "descriptions": "quis dolor do laboris esse do quis nisi nulla occaecat duis deserunt ut laborum officia",
-    "picture": "https://atza.co.il/wp-content/uploads/2015/12/logo1.png",
-    "link": "https://www.cal-store.co.il/product.php?pid=2C3D90AF-A587-4AEC-A0C5-A38ED03D716F&cid=B0E087D2-212B-4308-813D-C8693B2563F7",
-    "category": "food",
-    "club": "iStudent"
-  },
-  {
-    "id": 8,
-    "title": "חוף חנניה -טיול VIP פרטי בסירה מהירה ב- 269 ₪",
-    "descriptions": "חוויה נעימה מאוד ומתאימה לכל המשפחה",
-    "picture": "https://www.cal-store.co.il/images/spacer_573x492.png",
-    "link": "https://www.cal-store.co.il/product.php?pid=4701B56E-9952-416A-AED0-683B0D3444EC&cid=5036A6B1-6560-4139-8C90-09DF6BBF89F8",
-    "category": "culture",
-    "club": "Cal"
-  },
-  {
-    "id": 9,
-    "title": "quis",
-    "descriptions": "consectetur cillum adipisicing veniam duis irure commodo officia commodo enim enim dolor proident amet labore",
-    "picture": "https://atza.co.il/wp-content/uploads/2015/12/logo1.png",
-    "link": "https://www.cal-store.co.il/product.php?pid=2C3D90AF-A587-4AEC-A0C5-A38ED03D716F&cid=B0E087D2-212B-4308-813D-C8693B2563F7",
-    "category": "food",
-    "club": "Cal"
-  },
-  {
-    "id": 10,
-    "title": "eiusmod",
-    "descriptions": "sint ea consectetur aute non id veniam ullamco sunt fugiat adipisicing ut culpa consequat nostrud",
-    "picture": "https://atza.co.il/wp-content/uploads/2015/12/logo1.png",
-    "link": "https://www.cal-store.co.il/product.php?pid=2C3D90AF-A587-4AEC-A0C5-A38ED03D716F&cid=B0E087D2-212B-4308-813D-C8693B2563F7",
-    "category": "food",
-    "club": "iStudent"
-  },
-  {
-    "id": 11,
-    "title": "minim",
-    "descriptions": "reprehenderit cupidatat labore excepteur culpa aliqua occaecat eu cupidatat consectetur tempor aliquip nostrud esse Lorem",
-    "picture": "https://atza.co.il/wp-content/uploads/2015/12/logo1.png",
-    "link": "https://www.cal-store.co.il/product.php?pid=2C3D90AF-A587-4AEC-A0C5-A38ED03D716F&cid=B0E087D2-212B-4308-813D-C8693B2563F7",
-    "category": "food",
-    "club": "iStudent"
-  },
-  {
-    "id": 12,
-    "title": "eu",
-    "descriptions": "est cillum in nostrud ipsum incididunt officia et fugiat proident cillum ea consectetur fugiat ea",
-    "picture": "https://atza.co.il/wp-content/uploads/2015/12/logo1.png",
-    "link": "https://www.cal-store.co.il/product.php?pid=2C3D90AF-A587-4AEC-A0C5-A38ED03D716F&cid=B0E087D2-212B-4308-813D-C8693B2563F7",
-    "category": "food",
-    "club": "Cal"
-  },
-  {
-    "id": 13,
-    "title": "amet",
-    "descriptions": "quis magna nisi voluptate commodo voluptate dolore sint nostrud in anim duis labore deserunt aliquip",
-    "picture": "https://atza.co.il/wp-content/uploads/2015/12/logo1.png",
-    "link": "https://www.cal-store.co.il/product.php?pid=2C3D90AF-A587-4AEC-A0C5-A38ED03D716F&cid=B0E087D2-212B-4308-813D-C8693B2563F7",
-    "category": "food",
-    "club": "Cal"
-  },
-  {
-    "id": 14,
-    "title": "mollit",
-    "descriptions": "irure aute esse anim in labore excepteur nisi consectetur sint elit consequat veniam ut aliquip",
-    "picture": "https://atza.co.il/wp-content/uploads/2015/12/logo1.png",
-    "link": "https://www.cal-store.co.il/product.php?pid=2C3D90AF-A587-4AEC-A0C5-A38ED03D716F&cid=B0E087D2-212B-4308-813D-C8693B2563F7",
-    "category": "food",
-    "club": "Cal"
-  },
-  {
-    "id": 15,
-    "title": "ea",
-    "descriptions": "pariatur consequat commodo amet exercitation aute id pariatur irure reprehenderit ea consequat esse sunt id",
-    "picture": "https://atza.co.il/wp-content/uploads/2015/12/logo1.png",
-    "link": "https://www.cal-store.co.il/product.php?pid=2C3D90AF-A587-4AEC-A0C5-A38ED03D716F&cid=B0E087D2-212B-4308-813D-C8693B2563F7",
-    "category": "food",
-    "club": "iStudent"
-  },
-  {
-    "id": 16,
-    "title": "eu",
-    "descriptions": "voluptate exercitation aliquip occaecat aute adipisicing pariatur nisi cupidatat labore tempor mollit culpa reprehenderit irure",
-    "picture": "https://atza.co.il/wp-content/uploads/2015/12/logo1.png",
-    "link": "https://www.cal-store.co.il/product.php?pid=2C3D90AF-A587-4AEC-A0C5-A38ED03D716F&cid=B0E087D2-212B-4308-813D-C8693B2563F7",
-    "category": "food",
-    "club": "Cal"
-  },
-  {
-    "id": 17,
-    "title": "in",
-    "descriptions": "in magna aute ipsum deserunt deserunt ullamco quis culpa sint dolore aliqua ipsum et quis",
-    "picture": "https://atza.co.il/wp-content/uploads/2015/12/logo1.png",
-    "link": "https://www.cal-store.co.il/product.php?pid=2C3D90AF-A587-4AEC-A0C5-A38ED03D716F&cid=B0E087D2-212B-4308-813D-C8693B2563F7",
-    "category": "food",
-    "club": "iStudent"
-  },
-  {
-    "id": 18,
-    "title": "commodo",
-    "descriptions": "amet veniam deserunt nostrud nulla incididunt eu duis ipsum ea velit consectetur nulla consequat tempor",
-    "picture": "https://atza.co.il/wp-content/uploads/2015/12/logo1.png",
-    "link": "https://www.cal-store.co.il/product.php?pid=2C3D90AF-A587-4AEC-A0C5-A38ED03D716F&cid=B0E087D2-212B-4308-813D-C8693B2563F7",
-    "category": "culture",
-    "club": "iStudent"
-  },
-  {
-    "id": 19,
-    "title": "dolor",
-    "descriptions": "elit exercitation in enim reprehenderit reprehenderit ea anim reprehenderit amet ut aute et consequat reprehenderit",
-    "picture": "https://atza.co.il/wp-content/uploads/2015/12/logo1.png",
-    "link": "https://www.cal-store.co.il/product.php?pid=2C3D90AF-A587-4AEC-A0C5-A38ED03D716F&cid=B0E087D2-212B-4308-813D-C8693B2563F7",
-    "category": "culture",
-    "club": "Cal"
-  }
-]
+      {
+        "id": 0,
+        "title": "ארוחת רויאל ברשת מקדונלדס ב40 שח",
+        "descriptions": "",
+        "picture": "https://istudentcards.blob.core.windows.net/sales/FwLBLGo1J_web.jpg",
+        "link": "https://www.istudent.co.il/saleInner.php?saleId=FwLBLGo1J",
+        "category": "food",
+        "club": "iStudent"
+      },
+      {
+        "id": 1,
+        "title": "שובר לרשת מקדונלדס בשווי 100 שח ב90 שח",
+        "descriptions": "",
+        "picture": "https://istudentcards.blob.core.windows.net/sales/rsltlPsDv_web.jpg",
+        "link": "https://www.istudent.co.il/saleInner.php?saleId=rsltlPsDv",
+        "category": "food",
+        "club": "iStudent"
+      },
+      {
+        "id": 2,
+        "title": "מקדונלד'ס- ארוחת 9 נאגטס ענקית ב- 46 ₪",
+        "descriptions": "",
+        "picture": "https://www.cal-store.co.il/images/spacer_573x492.png",
+        "link": "https://www.cal-store.co.il/product.php?pid=F3D3E402-FFF3-446F-99D6-B280BA620A32",
+        "category": "food",
+        "club": "Cal"
+      },
+      {
+        "id": 3,
+        "title": "מקדונלד'ס ארוחת מק רויאל משלוחים ב-47 ₪",
+        "descriptions": "במשלוח עד הבית",
+        "picture": "https://www.cal-store.co.il/images/spacer_325x287.png",
+        "link": "https://www.cal-store.co.il/product.php?pid=2C3D90AF-A587-4AEC-A0C5-A38ED03D716F&cid=B0E087D2-212B-4308-813D-C8693B2563F7",
+        "category": "food",
+        "club": "Cal"
+      },
+      {
+        "id": 4,
+        "title": "voluptate",
+        "descriptions": "aliquip labore elit consectetur magna magna cillum proident ut cillum mollit officia consectetur est tempor",
+        "picture": "https://atza.co.il/wp-content/uploads/2015/12/logo1.png",
+        "link": "https://www.cal-store.co.il/product.php?pid=2C3D90AF-A587-4AEC-A0C5-A38ED03D716F&cid=B0E087D2-212B-4308-813D-C8693B2563F7",
+        "category": "food",
+        "club": "iStudent"
+      },
+      {
+        "id": 5,
+        "title": "qui",
+        "descriptions": "excepteur culpa amet fugiat exercitation nostrud minim dolor non qui non enim tempor ullamco consectetur",
+        "picture": "https://atza.co.il/wp-content/uploads/2015/12/logo1.png",
+        "link": "https://www.cal-store.co.il/product.php?pid=2C3D90AF-A587-4AEC-A0C5-A38ED03D716F&cid=B0E087D2-212B-4308-813D-C8693B2563F7",
+        "category": "culture",
+        "club": "iStudent"
+      },
+      {
+        "id": 6,
+        "title": "voluptate",
+        "descriptions": "do velit adipisicing laborum consequat esse mollit incididunt laboris eiusmod ex velit ipsum quis fugiat",
+        "picture": "https://atza.co.il/wp-content/uploads/2015/12/logo1.png",
+        "link": "https://www.cal-store.co.il/product.php?pid=2C3D90AF-A587-4AEC-A0C5-A38ED03D716F&cid=B0E087D2-212B-4308-813D-C8693B2563F7",
+        "category": "food",
+        "club": "iStudent"
+      },
+      {
+        "id": 7,
+        "title": "dolore",
+        "descriptions": "quis dolor do laboris esse do quis nisi nulla occaecat duis deserunt ut laborum officia",
+        "picture": "https://atza.co.il/wp-content/uploads/2015/12/logo1.png",
+        "link": "https://www.cal-store.co.il/product.php?pid=2C3D90AF-A587-4AEC-A0C5-A38ED03D716F&cid=B0E087D2-212B-4308-813D-C8693B2563F7",
+        "category": "food",
+        "club": "iStudent"
+      },
+      {
+        "id": 8,
+        "title": "חוף חנניה -טיול VIP פרטי בסירה מהירה ב- 269 ₪",
+        "descriptions": "חוויה נעימה מאוד ומתאימה לכל המשפחה",
+        "picture": "https://www.cal-store.co.il/images/spacer_573x492.png",
+        "link": "https://www.cal-store.co.il/product.php?pid=4701B56E-9952-416A-AED0-683B0D3444EC&cid=5036A6B1-6560-4139-8C90-09DF6BBF89F8",
+        "category": "culture",
+        "club": "Cal"
+      },
+      {
+        "id": 9,
+        "title": "quis",
+        "descriptions": "consectetur cillum adipisicing veniam duis irure commodo officia commodo enim enim dolor proident amet labore",
+        "picture": "https://atza.co.il/wp-content/uploads/2015/12/logo1.png",
+        "link": "https://www.cal-store.co.il/product.php?pid=2C3D90AF-A587-4AEC-A0C5-A38ED03D716F&cid=B0E087D2-212B-4308-813D-C8693B2563F7",
+        "category": "food",
+        "club": "Cal"
+      },
+      {
+        "id": 10,
+        "title": "eiusmod",
+        "descriptions": "sint ea consectetur aute non id veniam ullamco sunt fugiat adipisicing ut culpa consequat nostrud",
+        "picture": "https://atza.co.il/wp-content/uploads/2015/12/logo1.png",
+        "link": "https://www.cal-store.co.il/product.php?pid=2C3D90AF-A587-4AEC-A0C5-A38ED03D716F&cid=B0E087D2-212B-4308-813D-C8693B2563F7",
+        "category": "food",
+        "club": "iStudent"
+      },
+      {
+        "id": 11,
+        "title": "minim",
+        "descriptions": "reprehenderit cupidatat labore excepteur culpa aliqua occaecat eu cupidatat consectetur tempor aliquip nostrud esse Lorem",
+        "picture": "https://atza.co.il/wp-content/uploads/2015/12/logo1.png",
+        "link": "https://www.cal-store.co.il/product.php?pid=2C3D90AF-A587-4AEC-A0C5-A38ED03D716F&cid=B0E087D2-212B-4308-813D-C8693B2563F7",
+        "category": "food",
+        "club": "iStudent"
+      },
+      {
+        "id": 12,
+        "title": "eu",
+        "descriptions": "est cillum in nostrud ipsum incididunt officia et fugiat proident cillum ea consectetur fugiat ea",
+        "picture": "https://atza.co.il/wp-content/uploads/2015/12/logo1.png",
+        "link": "https://www.cal-store.co.il/product.php?pid=2C3D90AF-A587-4AEC-A0C5-A38ED03D716F&cid=B0E087D2-212B-4308-813D-C8693B2563F7",
+        "category": "food",
+        "club": "Cal"
+      },
+      {
+        "id": 13,
+        "title": "amet",
+        "descriptions": "quis magna nisi voluptate commodo voluptate dolore sint nostrud in anim duis labore deserunt aliquip",
+        "picture": "https://atza.co.il/wp-content/uploads/2015/12/logo1.png",
+        "link": "https://www.cal-store.co.il/product.php?pid=2C3D90AF-A587-4AEC-A0C5-A38ED03D716F&cid=B0E087D2-212B-4308-813D-C8693B2563F7",
+        "category": "food",
+        "club": "Cal"
+      },
+      {
+        "id": 14,
+        "title": "mollit",
+        "descriptions": "irure aute esse anim in labore excepteur nisi consectetur sint elit consequat veniam ut aliquip",
+        "picture": "https://atza.co.il/wp-content/uploads/2015/12/logo1.png",
+        "link": "https://www.cal-store.co.il/product.php?pid=2C3D90AF-A587-4AEC-A0C5-A38ED03D716F&cid=B0E087D2-212B-4308-813D-C8693B2563F7",
+        "category": "food",
+        "club": "Cal"
+      },
+      {
+        "id": 15,
+        "title": "ea",
+        "descriptions": "pariatur consequat commodo amet exercitation aute id pariatur irure reprehenderit ea consequat esse sunt id",
+        "picture": "https://atza.co.il/wp-content/uploads/2015/12/logo1.png",
+        "link": "https://www.cal-store.co.il/product.php?pid=2C3D90AF-A587-4AEC-A0C5-A38ED03D716F&cid=B0E087D2-212B-4308-813D-C8693B2563F7",
+        "category": "food",
+        "club": "iStudent"
+      },
+      {
+        "id": 16,
+        "title": "eu",
+        "descriptions": "voluptate exercitation aliquip occaecat aute adipisicing pariatur nisi cupidatat labore tempor mollit culpa reprehenderit irure",
+        "picture": "https://atza.co.il/wp-content/uploads/2015/12/logo1.png",
+        "link": "https://www.cal-store.co.il/product.php?pid=2C3D90AF-A587-4AEC-A0C5-A38ED03D716F&cid=B0E087D2-212B-4308-813D-C8693B2563F7",
+        "category": "food",
+        "club": "Cal"
+      },
+      {
+        "id": 17,
+        "title": "in",
+        "descriptions": "in magna aute ipsum deserunt deserunt ullamco quis culpa sint dolore aliqua ipsum et quis",
+        "picture": "https://atza.co.il/wp-content/uploads/2015/12/logo1.png",
+        "link": "https://www.cal-store.co.il/product.php?pid=2C3D90AF-A587-4AEC-A0C5-A38ED03D716F&cid=B0E087D2-212B-4308-813D-C8693B2563F7",
+        "category": "food",
+        "club": "iStudent"
+      },
+      {
+        "id": 18,
+        "title": "commodo",
+        "descriptions": "amet veniam deserunt nostrud nulla incididunt eu duis ipsum ea velit consectetur nulla consequat tempor",
+        "picture": "https://atza.co.il/wp-content/uploads/2015/12/logo1.png",
+        "link": "https://www.cal-store.co.il/product.php?pid=2C3D90AF-A587-4AEC-A0C5-A38ED03D716F&cid=B0E087D2-212B-4308-813D-C8693B2563F7",
+        "category": "culture",
+        "club": "iStudent"
+      },
+      {
+        "id": 19,
+        "title": "dolor",
+        "descriptions": "elit exercitation in enim reprehenderit reprehenderit ea anim reprehenderit amet ut aute et consequat reprehenderit",
+        "picture": "https://atza.co.il/wp-content/uploads/2015/12/logo1.png",
+        "link": "https://www.cal-store.co.il/product.php?pid=2C3D90AF-A587-4AEC-A0C5-A38ED03D716F&cid=B0E087D2-212B-4308-813D-C8693B2563F7",
+        "category": "culture",
+        "club": "Cal"
+      }
+    ]
 }
