@@ -7,7 +7,8 @@
         "picture": "https://istudentcards.blob.core.windows.net/sales/FwLBLGo1J_web.jpg",
         "link": "https://www.istudent.co.il/saleInner.php?saleId=FwLBLGo1J",
         "category": "food",
-        "club": "iStudent"
+        "subCategory": "fast",
+        "club": "istudent"
       },
       {
         "id": 1,
@@ -16,7 +17,8 @@
         "picture": "https://istudentcards.blob.core.windows.net/sales/rsltlPsDv_web.jpg",
         "link": "https://www.istudent.co.il/saleInner.php?saleId=rsltlPsDv",
         "category": "food",
-        "club": "iStudent"
+        "subCategory": "fast",
+        "club": "istudent"
       },
       {
         "id": 2,
@@ -25,7 +27,8 @@
         "picture": "https://media.dolcehost.co.il/prod_files/20210322071501.jpg",
         "link": "https://www.cal-store.co.il/product.php?pid=F3D3E402-FFF3-446F-99D6-B280BA620A32",
         "category": "food",
-        "club": "Cal"
+        "subCategory": "fast",
+        "club": "cal"
       },
       {
         "id": 3,
@@ -34,52 +37,57 @@
         "picture": "https://media.dolcehost.co.il/prod_files/20210107120237.jpg",
         "link": "https://www.cal-store.co.il/product.php?pid=2C3D90AF-A587-4AEC-A0C5-A38ED03D716F&cid=B0E087D2-212B-4308-813D-C8693B2563F7",
         "category": "food",
-        "club": "Cal"
+        "subCategory": "fast",  
+        "club": "cal"
       },
       {
         "id": 4,
-        "title": "קופון להמבורגר אקספרס 120 גרם 1+1 בעד העצם אקספרס",
-        "descriptions": "עד העצם אקספרס",
+        "title": "עד העצם אקספרס",
+        "descriptions": "קופון להמבורגר אקספרס 120 גרם 1+1 בעד העצם אקספרס",
         "picture": "https://benefits.isracard.co.il/globalassets/hatavot/-33/16.11.20/750x610x.jpg",
         "link": "https://benefits.isracard.co.il/benefitsforall/food/adhaetzem-7150/",
         "category": "food",
+        "subCategory": "fast",
         "club": "isracard"
       },
       {
         "id": 5,
-        "title": "qui",
-        "descriptions": "excepteur culpa amet fugiat exercitation nostrud minim dolor non qui non enim tempor ullamco consectetur",
-        "picture": "https://atza.co.il/wp-content/uploads/2015/12/logo1.png",
-        "link": "https://www.cal-store.co.il/product.php?pid=2C3D90AF-A587-4AEC-A0C5-A38ED03D716F&cid=B0E087D2-212B-4308-813D-C8693B2563F7",
-        "category": "culture",
-        "club": "iStudent"
+        "title": "עד העצם אקספרס",
+        "descriptions": "שובר הטבה בשווי 30 ₪ (תמורת פינוק)",
+        "picture": "https://www.max.co.il/he-il/Benefits/BenefitsPlus/Breakfasts/PublishingImages/0-B/AdHaetzem/adHaetzem_small.low.jpg",
+        "link": "https://www.max.co.il/he-il/Benefits/BenefitsPlus/Breakfasts/Pages/ADHaetzem.aspx",
+        "category": "food",
+        "subCategory": "fast",
+        "club": "max"
       },
       {
         "id": 6,
-        "title": "voluptate",
-        "descriptions": "do velit adipisicing laborum consequat esse mollit incididunt laboris eiusmod ex velit ipsum quis fugiat",
-        "picture": "https://atza.co.il/wp-content/uploads/2015/12/logo1.png",
-        "link": "https://www.cal-store.co.il/product.php?pid=2C3D90AF-A587-4AEC-A0C5-A38ED03D716F&cid=B0E087D2-212B-4308-813D-C8693B2563F7",
+        "title": "שובר לרשת אצה",
+        "descriptions": "בשווי 100 ₪",
+        "picture": "https://media.htzone.co.il/583/37/151437.jpg",
+        "link": "https://www.htzone.co.il/item/59968/%D7%A9%D7%95%D7%91%D7%A8-%D7%91%D7%A9%D7%95%D7%95%D7%99-100-%E2%82%AA-%D7%9C%D7%A8%D7%A9%D7%AA-%D7%90%D7%A6%D7%94/",
         "category": "food",
-        "club": "iStudent"
+        "subCategory": "restaurants"
+        "club": "htz"
       },
       {
         "id": 7,
-        "title": "dolore",
-        "descriptions": "quis dolor do laboris esse do quis nisi nulla occaecat duis deserunt ut laborum officia",
-        "picture": "https://atza.co.il/wp-content/uploads/2015/12/logo1.png",
-        "link": "https://www.cal-store.co.il/product.php?pid=2C3D90AF-A587-4AEC-A0C5-A38ED03D716F&cid=B0E087D2-212B-4308-813D-C8693B2563F7",
-        "category": "food",
-        "club": "iStudent"
+        "title": "סינימה סיטי - חבילת יומולדת ב- 2250 ₪",
+        "descriptions": "רשת סינמה סיטי מזמינה אתכם לחגוג לילדכם יום הולדת בחוויה אחרת",
+        "picture": "https://media.dolcehost.co.il/prod_files/20180506095729.JPG",
+        "link": "https://www.cal-store.co.il/product.php?pid=D1248D32-58F0-49AC-A9D6-BC0AFE76CE13&cid=CD26A9E0-A3A4-4BA0-BEF8-859392D9C1FD",
+        "category": "culture",
+        "subCategory": "movies",
+        "club": "cal"
       },
       {
         "id": 8,
         "title": "חוף חנניה -טיול VIP פרטי בסירה מהירה ב- 269 ₪",
         "descriptions": "חוויה נעימה מאוד ומתאימה לכל המשפחה",
-        "picture": "https://www.cal-store.co.il/images/spacer_573x492.png",
+        "picture": "https://media.dolcehost.co.il/prod_files/20210411105616.jpg",
         "link": "https://www.cal-store.co.il/product.php?pid=4701B56E-9952-416A-AED0-683B0D3444EC&cid=5036A6B1-6560-4139-8C90-09DF6BBF89F8",
         "category": "culture",
-        "club": "Cal"
+        "club": "cal"
       },
       {
         "id": 9,
